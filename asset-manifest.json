@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f441cac.chunk.css",
+    "main.css": "/static/css/main.2c399226.chunk.css",
     "main.js": "/static/js/main.912164c3.chunk.js",
     "main.js.map": "/static/js/main.912164c3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8896086d.js",
@@ -8,9 +8,9 @@
     "static/js/2.1dcb7472.chunk.js": "/static/js/2.1dcb7472.chunk.js",
     "static/js/2.1dcb7472.chunk.js.map": "/static/js/2.1dcb7472.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b1441853784660eaf963ac8731ad1bce.js": "/precache-manifest.b1441853784660eaf963ac8731ad1bce.js",
+    "precache-manifest.f18d9412d82de8d726b45177e440d472.js": "/precache-manifest.f18d9412d82de8d726b45177e440d472.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9f441cac.chunk.css.map": "/static/css/main.9f441cac.chunk.css.map",
+    "static/css/main.2c399226.chunk.css.map": "/static/css/main.2c399226.chunk.css.map",
     "static/media/styles.css": "/static/media/bg-img.dad176f7.jpg",
     "static/media/email.svg": "/static/media/email.af6134f2.svg",
     "static/media/me.jpg": "/static/media/me.0eb6a7ae.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.8896086d.js",
     "static/js/2.1dcb7472.chunk.js",
-    "static/css/main.9f441cac.chunk.css",
+    "static/css/main.2c399226.chunk.css",
     "static/js/main.912164c3.chunk.js"
   ]
 }
